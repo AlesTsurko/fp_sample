@@ -1,0 +1,8 @@
+*.aps
+*.opensdf
+*.sdf
+*.suo
+*.user
+.DS_Store
+Win32/
+ipch/
